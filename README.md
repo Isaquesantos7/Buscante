@@ -1,5 +1,3 @@
-![Buscante](thumbnail.png)
-
 # Buscante
 
 Aplicação que permite pesquisar e descobrir livros utilizando a API do Google Books. 
@@ -25,10 +23,6 @@ As técnicas e tecnologias utilizadas foram:
 - `Angular`
 - `Google Books API`
 - `RxJs`
-
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/nayannelbatista/3491-angular-a11y) ou [baixá-lo](https://github.com/nayannelbatista/3491-angular-a11y/archive/refs/heads/projeto-base.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 
